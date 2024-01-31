@@ -1,9 +1,12 @@
-cd MaskLink
+#CLONA EL REPOSITORIO 
 
-python mask_url.py
+- cd MaskLink
+
+- python mask_url.py
 
 **
 MENU
+
 [1]. shop-link.co
 
 [2]. digit.in        
