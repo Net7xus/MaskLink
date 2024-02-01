@@ -15,6 +15,8 @@ MENU
 
 [4]. l.wl.co
 
+[0]. Salir
+
 #Camufla tu link
 [URL CAMUFLADA]:
 
